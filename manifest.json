@@ -1,0 +1,22 @@
+{
+ "name": "RESTO",
+ "short_name": "caffe and resto",
+ "description": " resto ",
+ "icons": [
+ {
+ "src": "resto/img/logo.png",
+ "sizes": "512x512",
+ "type": "image/png"
+ },
+ {
+ "src": "resto/img/logo2.png", 
+ "sizes": "192x192",
+ "type": "image/png"
+ }
+ ],
+ "start_url": "/",
+ "display": "standalone",
+ "theme_color": "#1F3641", 
+ "background_color": "#ffffff", 
+ "prefer_related_applications": false
+}
